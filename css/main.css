@@ -67,6 +67,15 @@ body{
 	text-align: center;
 }
 
+.coral_banner{
+    background-image: url('../media/images/coral_reef.jpg');
+    background-size: cover;
+    max-width: 100%;
+    height: 380px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
  .subpage_heading
     {
     	width: 100%;
