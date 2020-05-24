@@ -9,11 +9,14 @@ body{
 	height: 100%;
 }
 
+p{
+    font-family: Calibri;
+}
 .tagline {
 	padding-top: 40px;
 	padding-bottom: 40px;
 	font-size: 18px;
-	font-family: Arial;
+	font-family: Calibri;
 	color: white;
 	text-align: center;
 	background-color: teal;
@@ -50,6 +53,7 @@ body{
     }
     .Cell
     {
+        font-family: Calibri;
         display: table-cell;
         border: solid;
         border-width: thin;
