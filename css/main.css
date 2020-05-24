@@ -111,3 +111,53 @@ body{
 	padding-left: 100px;
 	height: 300px;
     }
+
+    .galathea_snap
+    {
+    background-image: url('../media/images/galathea.jpg');
+    background-size: cover;
+    max-width: 50%;
+    margin-left: 100px;
+    padding-left: 100px;
+    height: 300px;
+    }
+
+    .galathea_snap
+    {
+    background-image: url('../media/images/galathea.jpg');
+    background-size: cover;
+    max-width: 50%;
+    margin-left: 100px;
+    padding-left: 100px;
+    height: 300px;
+    }
+
+    .thullier_snap
+    {
+    background-image: url('../media/images/mt_thullier.jpg');
+    background-size: cover;
+    max-width: 50%;
+    margin-left: 100px;
+    padding-left: 100px;
+    height: 300px;
+    }
+
+    .lighthouse_snap
+    {
+    background-image: url('../media/images/light_house.jpg');
+    background-size: cover;
+    max-width: 50%;
+    margin-left: 100px;
+    padding-left: 100px;
+    height: 300px;
+    }
+
+    .campbell_snap
+    {
+    background-image: url('../media/images/campbell_bay.jpg');
+    background-size: cover;
+    max-width: 50%;
+    margin-left: 100px;
+    padding-left: 100px;
+    height: 300px;
+    }
